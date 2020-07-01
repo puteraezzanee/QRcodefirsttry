@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: androidmads.library.qrgenearator:QRGenearator:1.0.4@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4b9a2b3b6b345e2e04a4be06449fcb86/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4b9a2b3b6b345e2e04a4be06449fcb86/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidmads.library.qrgenearator/QRGenearator/1.0.4/8cbdb790e505c6d6d1a079831313c480540cbe57/QRGenearator-1.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
